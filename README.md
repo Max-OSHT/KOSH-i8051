@@ -12,10 +12,10 @@ LR6
 
 ![image](https://user-images.githubusercontent.com/87578324/233868104-024fe527-c307-4064-a5a2-5b4ea7a25368.png)
 
-LR7 - таймер от 0-99с с разрешением в 1с
+LR7
 
 ![image](https://user-images.githubusercontent.com/87578324/233868120-2002b4dc-a07f-4023-869f-bea89790737d.png)
 
-LR8 - измеритель времени реакции пользователя
+LR8
 
 ![image](https://user-images.githubusercontent.com/87578324/233868139-9b1541d2-46b4-4e23-9fa8-f38c88cf4423.png)
