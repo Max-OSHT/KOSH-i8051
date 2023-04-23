@@ -1,0 +1,4 @@
+<all>: LR5.mp
+<files>: LR5.mcp LR5.mcu
+LR5.mcu: LR5.asm
+LR5.mp: <files>
